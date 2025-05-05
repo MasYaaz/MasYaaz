@@ -1,6 +1,6 @@
 # Hello ! I am Aflah Mahdi Yazdi 👋
 
-![MasYaaz](img/heading.png)
+![MasYaaz](img/Heading.png)
 <!--
 **MasYaaz/MasYaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
