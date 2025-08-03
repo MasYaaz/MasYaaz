@@ -8,11 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)]()
 
-[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()  
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()  
-[![](https://img.shields.io/badge/css-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)]() 
-[![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)]() 
-[![](https://img.shields.io/badge/Rust-%23777BB4?style=for-the-badge&logo=rust&logoColor=white)]()
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()  [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()  [![](https://img.shields.io/badge/css-%23777BB4.svg?style=for-the-badge&logo=css&logoColor=white)]() [![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)]() [![](https://img.shields.io/badge/Rust-%23777BB4?style=for-the-badge&logo=rust&logoColor=white)]()
 
 ## Frameworks
 
