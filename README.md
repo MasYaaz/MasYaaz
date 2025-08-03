@@ -6,15 +6,15 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,rust)]()
 
-[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()  [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()  [![](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=white)]() [![](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)]() [![](https://img.shields.io/badge/Rust-%23777BB4?style=for-the-badge&logo=rust&logoColor=white)]()
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()  [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()  [![](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=white)]() [![](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)]() [![](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)]()
 
 ## Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,svelte)]()
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,svelte,tauri,tailwindcss)]()
 
-[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]() [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]() [![Tauri](https://img.shields.io/badge/Tauri-%23f1413d.svg?style=for-the-badge&logo=tauri&logoColor=yellow)]()
+[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]() [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]() [![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)]() [![Tailwindcss](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
 
 ## Connect With Me
 
