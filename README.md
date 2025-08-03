@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,svelte)]()
 
-[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]() [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]() [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]() [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=tauri&logoColor=white)]()
 
 ## Connect With Me
 
