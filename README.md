@@ -2,7 +2,7 @@
 
 # ABOUT ME
 
-#### Hello, My name is Aflah Mahdi Yazdi, and i come from Surabaya, indonesia.
+#### Hello everybody! i am Aflah Mahdi Yazdi and i come from Surabaya, indonesia.
 
 ## My Skills
 
