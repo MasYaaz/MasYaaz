@@ -1,6 +1,6 @@
 ![MasYaaz](img/Heading.png)
 
-# Hi 👋, I'm Aflah Mahdi Yazdi 
+# Hi , I'm Aflah Mahdi Yazdi 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Surabaya,%20Indonesia-blue?style=flat-square&logo=googlemaps&logoColor=white" />
