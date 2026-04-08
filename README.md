@@ -24,6 +24,10 @@ I am a passionate developer focused on building efficient and modern application
 [![](https://img.shields.io/badge/Svelte-%23f1413d?style=for-the-badge&logo=svelte&logoColor=white)]()
 [![](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)]()
 [![](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
+[![](https://img.shields.io/badge/CodeIgniter4-%23EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)]()
+[![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)]()
+[![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)]()
+[![](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
 #### 🤖 Artificial Intelligence (Local LLMs)
 [![](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)]() 
