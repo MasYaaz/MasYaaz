@@ -38,7 +38,7 @@ I am a passionate developer focused on building efficient and modern application
 ---
 
 ### 📊 GitHub Stats
- [![Aflah's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasYaaz&show_icons=true&theme=dark)]()
+ [![Aflah's GitHub stats](https://github-stats-extended.vercel.app/api?username=MasYaaz&show_icons=true&theme=light)]()
 
 ---
 
