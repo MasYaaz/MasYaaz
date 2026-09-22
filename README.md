@@ -41,7 +41,7 @@
   </h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=svelte,tauri,tailwind,bootstrap,mysql,supabase&theme=dark" alt="Frameworks and Databases" />
+      <img src="https://skillicons.dev/icons?i=svelte,tauri,tailwind,postgres,mysql,supabase&theme=dark" alt="Frameworks and Databases" />
     </a>
   </p>
 
